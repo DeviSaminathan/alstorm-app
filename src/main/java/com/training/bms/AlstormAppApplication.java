@@ -9,7 +9,7 @@ public class AlstormAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AlstormAppApplication.class, args);
 		System.out.println("#### Alstorm App Started - Friday ####");
-		System.out.println("Started automatically");
+		System.out.println("Started automatically after changes");
 		
 	}
 
